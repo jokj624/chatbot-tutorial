@@ -4,3 +4,6 @@
 
 - 챗봇 데이터는 github에서 받았습니다. 
 	- <https://github.com/songys/Chatbot_data> 에서 받았습니다.
+
+- 실행 예
+<img src="./img/result.png" width="450px" height="300px" title="구현 예" alt="ex"></img><br/>
