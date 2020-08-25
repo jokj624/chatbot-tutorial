@@ -5,5 +5,5 @@
 - 챗봇 데이터는 github에서 받았습니다. 
 	- <https://github.com/songys/Chatbot_data> 에서 받았습니다.
 
-- 실행 예
+- 실행 예   
 ![result](https://user-images.githubusercontent.com/20807197/91159142-9ab93000-e702-11ea-8b06-8e82b6bb7473.PNG)
