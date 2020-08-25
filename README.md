@@ -6,4 +6,4 @@
 	- <https://github.com/songys/Chatbot_data> 에서 받았습니다.
 
 - 실행 예
-<img src="./img/result.png" width="450px" height="300px" title="구현 예" alt="ex"></img><br/>
+![result](https://user-images.githubusercontent.com/20807197/91159142-9ab93000-e702-11ea-8b06-8e82b6bb7473.PNG)
